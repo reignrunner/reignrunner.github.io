@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: reignrunner.github.io
-Token: 9e96b49424f88a399af74ae3ffded5132eaabee5bd61e0c4350ed94a40864e9e
